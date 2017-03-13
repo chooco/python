@@ -1,0 +1,4 @@
+Git remote -v
+git remote add
+git push origin master
+git pull origin master
