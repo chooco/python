@@ -10,3 +10,4 @@ git merge branch name ->on master
 git checkout -b klaudia
 --some new
 >>>>>>> refs/remotes/origin/master
+change on github
