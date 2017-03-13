@@ -2,5 +2,11 @@ Git remote -v
 git remote add
 git push origin master
 git pull origin master
+<<<<<<< HEAD
+git checkout -b klaudia-lab2
+##some change -> git push origin klaudia-lab2
+git merge branch name ->on master
+=======
 git checkout -b klaudia
 --some new
+>>>>>>> refs/remotes/origin/master
