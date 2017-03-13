@@ -2,4 +2,6 @@ Git remote -v
 git remote add
 git push origin master
 git pull origin master
-git checkout -b klaudia
+git checkout -b klaudia-lab2
+##some change -> git push origin klaudia-lab2
+
